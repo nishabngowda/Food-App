@@ -28,7 +28,6 @@ https://github.com/guddukrp/SunbaseProject/assets/91307403/64857e46-0fda-4418-8e
 ## Getting Started
 
 ![Screenshot (41)](https://github.com/guddukrp/SunbaseProject/assets/91307403/4e708589-aa60-4322-b840-813cf0ca083a)
-![Screenshot (43)](![Uploading login.jpg…]())
 
 ![Screenshot (44)](https://github.com/guddukrp/SunbaseProject/assets/91307403/35b23f02-d29c-49ba-9a1e-f1e9f6312d05)
 ![Screenshot (45)](https://github.com/guddukrp/SunbaseProject/assets/91307403/76e25467-c68c-42f7-8ffa-27c4c23ed7b1)
