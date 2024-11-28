@@ -1,6 +1,6 @@
 # Food-App
 This is a convenient and user-friendly Food Delivery app that allows users to order food from a variety of restaurants with ease.
-Features
+#Features
 Sign Up / Login: Sign up or log in to your account.
 Restaurant Selection: Browse through a wide selection of restaurants to choose from.
 Menu Viewing: View detailed menus with customizable options for each dish.
